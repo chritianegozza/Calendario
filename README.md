@@ -1,8 +1,9 @@
 # Projeto Calendário 
 -------------------------------------------------- -------------------------------------------------- -------------------------
 
+![image](https://user-images.githubusercontent.com/72118415/132615242-ff26fcc4-2221-4670-a84e-7138c982f7b3.png)
 
-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------- -------------------------------------------------- --------------------------
 
 O Projeto foi elaborado durante estudo de Java, com conceitos de calendário, como inserir uma data e 
 formato de data e hora.
@@ -15,5 +16,5 @@ Classe Calendar.
 
 Instalando o Java com o Intellig 
 -----------------------------------------------------------------------------------------------------------------------------
-## Agradeço a sua atenção e curta meu projeto com uma estrela. 
+## Agradeço a sua atenção e curta meu projeto com uma estrela. 🚀🚀🚀🚀
 
